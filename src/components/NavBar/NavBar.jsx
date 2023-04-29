@@ -4,13 +4,13 @@ import CartWidget from '../CartWidget/CartWidget'
 const NavBar = () => {
   return (
     <header>
-        <h1 style={{color:"red"}}> Marolio Online</h1>
+        <h1 style={{color:"red"}}> GIMA MARKET</h1>
 
         <nav>
             <ul>
-                <li>Lacteos</li>
-                <li>Bebidas</li>
-                <li>Almacen</li>
+                <li>Kinesiología</li>
+                <li>Fisioterapia</li>
+                <li>Estética</li>
             </ul>
         </nav>
 

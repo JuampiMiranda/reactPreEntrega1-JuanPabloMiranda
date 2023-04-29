@@ -22,7 +22,7 @@ function App() {
   return (
     <>
       <NavBar />
-      <ItemListContainer greeting="Hola Mundillo" />
+      <ItemListContainer greeting="este es tu espacio de compra para desarrollar tu vida profesional." />
       <ItemCount />
       <Vista />
       <Mensaje />

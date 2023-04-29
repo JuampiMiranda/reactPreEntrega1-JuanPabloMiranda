@@ -12,7 +12,7 @@ const Mensaje = () => {
   return (
     <div>
         <button onClick={manejadorMensaje}> {mensaje ? "Ocultar" : "Mostrar"} </button>
-        {mensaje && <h2>"marolio le da sabor a tu vida, marolio está desde el comienzo del día"</h2>}
+        {mensaje && <h2>"Este es un espacio comercial destinado a profesionales de la salud de la Kinesiologia y la Fisioterapia"</h2>}
     </div>
   )
 }
